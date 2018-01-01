@@ -1,0 +1,5 @@
+// export const API_BASE = 'http://35.194.41.153:8099/http://live.scantranx.com/api/v1/'
+// export const API_BASE = 'http://35.194.41.153:3000/api/v1/'
+export const API_BASE = 'http://127.0.0.1:3000/api/v1/'
+export const MERCHANT_ID = 'demo'
+export const AUTHORIZATION = 'Bearer ZGVtbzQ3NjE4Ng=='
